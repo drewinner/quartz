@@ -1,6 +1,4 @@
 
-
-
 ## quartz for golang
 quick start:
 
@@ -57,6 +55,3 @@ quick start:
   }
 
 ```
-
-*  466862016@qq.com
-
